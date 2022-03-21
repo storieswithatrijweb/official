@@ -1,0 +1,125 @@
+body{
+    text-align: center;
+    padding-top: 800px;
+    margin: 0;
+    background:linear-gradient(yellow 0%, green 100%)
+ }
+ #tim{
+    border-radius: 50%;
+    width:160px;
+    height: 200px;
+    margin-bottom: 50px;
+ }
+ #home{
+    position: absolute;
+    height: 800px;
+    color: white;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+    opacity: 0.83;
+    display:table;
+    width:100%;
+    height:100%;
+    z-index: 9;
+    text-align: center;
+ }
+ h1{
+    font-size: 40px;
+    font-weight: 300px;
+ }
+ #name{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+ }
+ h2{
+    font-size: 30px;
+    font-weight: 300px;
+    font-family: monospace;
+ }
+ 
+ #menu{
+    position: fixed;
+    top: 10px;
+    right:40px;
+    cursor: grab;
+    z-index: 10;
+    font-size: 30px;
+    font-weight: bold;
+    text-align:center;
+ }
+ #sec2{
+    padding: 50px;
+    text-align: center;
+    
+    
+ }
+ 
+ .line{
+    background-color:black;
+    height: 6px;
+    width: 70px;
+    margin: 8px auto;
+ }
+ p{
+    max-width: 450px;
+    margin:25px auto;
+    font-size: 18px;
+ }
+ #div1{
+    display: table;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+    margin-left:275px;
+    margin-top:150px
+ }
+ #sec2{
+   color:linear-gradient(green 0%, blue 100%)
+ }
+ #S{
+   Border-radius:100%
+ }
+ #aks{
+   font-size: 50px
+ }
+ #adi{
+    height: 500px;
+    width:300px;
+ }
+ #bipan{
+   height: 500px;
+   width:300px;
+}
+#IAM{
+   font-family: 'Times New Roman', Times, serif;
+   color: black;
+}
+#ex{
+   font-family: fantasy;
+   color: black;
+}
+.ab{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#nt1{
+   font-family: fantasy;
+}
+p{
+   font-family: fantasy;
+}
+.mail{
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   text-align: center;
+}
+.links{
+   font-weight: 300px;
+   color: blue;
+   position: relative;
+   font-family: cursive;
+}
+#contact{
+   margin-bottom: 300px;
+}
